@@ -6,7 +6,167 @@
   <atom:link href="https://toreca-ai.github.io/toreca-antenna/feed.xml" rel="self" type="application/rss+xml" />
   <description>トレーディングカードの相場動向、新弾情報、買取の考え方、初心者向けガイドなどをまとめる情報ブログ。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 23 Aug 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 09:00:00 +0900</lastBuildDate>
+  <item>
+    <title>デッキの呼び名の付け方が5タイトルで全部違う｜「8門」「青ベジブル」「紫エネル」「ユピテルモン」</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-deckmei-5title-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-deckmei-5title-2026-08.html</guid>
+    <description>ヴァイスはCX構成、DBFは色＋キャラ＋数字、ワンピースは色＋リーダー、デジモンは軸のデジモン名。デッキ名はそのタイトルで何が構築を決めているかをそのまま表しています。</description>
+    <category>column</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ポケモンカード30th CELEBRATIONは世界同時発売｜「ズレがない」ことが何を変えるか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-pokeca-30th-sekai-doji-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-pokeca-30th-sekai-doji-2026-08.html</guid>
+    <description>ポケモンカード30th CELEBRATIONは2026年9月16日に世界同時発売。日本語版と英語版で1か月ずれるDBF FB11と並べて、言語版のタイミングが体験に何をしているのかを考えます。</description>
+    <category>column</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>大会の結果はどれくらいの速さで出てくるか｜公式レシピ中心のタイトルと、優勝報告が積み上がるタイトル</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-taikai-jouhou-hayasa-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-taikai-jouhou-hayasa-2026-08.html</guid>
+    <description>ロゼの公式デッキレシピは数か月おき、ワンピースカードやDBFは日々の優勝報告が積み上がります。同じ「今の環境」でも根拠の量が違う、という話を整理します。</description>
+    <category>column</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFのデッキ名は「色＋キャラ＋数字」｜青ベジブル・黄悟空3が読めるようになる</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-deck-yobina-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-deck-yobina-2026-08.html</guid>
+    <description>ドラゴンボール フュージョンワールドの大会結果は「青ベジブル」「黄悟空3」といった呼び名で書かれています。命名の規則と数字の意味を分解し、デッキレシピを読める状態にします。</description>
+    <category>guide</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンカードゲームの試合が始まるまで｜初期手札5枚・セキュリティ5枚・マリガンなし</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-digimon-kaishi-tejun-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-digimon-kaishi-tejun-2026-08.html</guid>
+    <description>デジモンカードゲームは初期手札を引き直せません。マリガンがあるワンピースカード・DBF・ヴァイス系から来ると前提が変わります。開始手順と、構築への影響を整理します。</description>
+    <category>guide</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツのレベル1でCXコンボを撃つまで｜「ダイレクトを空けない」という言い方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-level1-cx-combo-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-level1-cx-combo-2026-08.html</guid>
+    <description>ヴァイスシュヴァルツのレベル1は多くのデッキでCXコンボが解禁される帯です。1連動に必要な3つの要素と、フロント・サイド・ダイレクトの選び方をプレイヤーの言葉で整理します。</description>
+    <category>guide</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツの「山を作る」を数字で見る｜クロックと山札の合計7枚以下という目安</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-yama-wo-tsukuru-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-yama-wo-tsukuru-2026-08.html</guid>
+    <description>ヴァイスシュヴァルツの「山を作る」を枚数の話として整理します。リフレッシュを先に迎えるための合計7枚以下、山1枚残し、確山と逆圧縮。使用者が挙げている目安を数字で並べます。</description>
+    <category>guide</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>4枚揃える必要がないカードもある｜デジモンの制限カードと、ヴァイスの「4コン」で単位が変わる</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-4mai-iranai-card-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-4mai-iranai-card-2026-08.html</guid>
+    <description>「同じカードは4枚集める」はどのタイトルでも正しいわけではありません。デジモンの制限カード33枚、遊戯王のリミットレギュレーション、ヴァイス系の4コン。必要枚数の決まり方を整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>新弾で評価が上がる側のカードもある｜DBF ST01のあとに名前が戻ったリーダーの周り</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dbf-hyouka-agaru-hou-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dbf-hyouka-agaru-hou-2026-08.html</guid>
+    <description>新弾が出ると古いカードは落ちる、とは限りません。DBF ST01のあとに優勝報告へ戻ったリーダーを例に、評価が上がる3つの型と、手放す判断を保留すべき場面を整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>環境から外れたリーダーのデッキをどうするか｜ワンピースカードは色の縛りが効いてくる</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-op-tier-soto-leader-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-op-tier-soto-leader-2026-08.html</guid>
+    <description>ワンピースカードは、リーダーの色を含む色のカードしか入れられません。使わなくなったデッキを3つに仕分ける方法と、手放す前に確認したい3点を整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デッキの実際の厚みはタイトルで違う｜ドン!!10枚・デジタマ5枚・DBFの60枚を数える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-deck-atsumi-case-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-deck-atsumi-case-2026-08.html</guid>
+    <description>「50枚デッキ」でも持ち歩く枚数は50〜62枚と幅があります。束の数、少枚数の束が曲がる問題、裏面がゲームに絡むタイトル。スリーブとケース選びに直結する枚数を数えます。</description>
+    <category>kanbetsu</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>カウンターで切った手札はどこへ行くか｜ワンピースカードで角が傷むのは殴られる側</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-op-counter-kiru-tefuda-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-op-counter-kiru-tefuda-2026-08.html</guid>
+    <description>ワンピースカードのカウンターは、手札を出して捨てる動作を1試合で何度も繰り返します。攻める側より受ける側でカードが傷む理由と、実務的にできる4つのことを整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>1パック6枚のうち1枚だけが光る｜ヴァイスシュヴァルツロゼ「オーガスト」を開けるときに触れる面</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-wsr-1pack-1hikari-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-wsr-1pack-1hikari-2026-08.html</guid>
+    <description>ロゼ「オーガスト」は1パックに1枚ホロ仕様が入ります。オールキラでも従来型でもない中間の構造で、開封時に気をつける場所が変わります。箔押しサインと直筆サインの扱いの違いも。</description>
+    <category>kanbetsu</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBF「FB11」で公表されているのは全123種だけ｜レアリティ内訳の数字はどこから来ているか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-dbf-fb11-kousei-kouhyou-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-dbf-fb11-kousei-kouhyou-2026-08.html</guid>
+    <description>ドラゴンボール フュージョンワールド FB11は2026年9月12日発売、全123種。よく見かけるレアリティ内訳は公式で確認できません。公表された数字と推定を切り分けて読む方法を整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツ 葬送のフリーレン Vol.2 は8月28日｜「8門」「門宝」で組まれてきた続きとして読む</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-frieren-vol2-8mon-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-frieren-vol2-8mon-2026-08.html</guid>
+    <description>葬送のフリーレン Vol.2は2026年8月28日発売。Vol.1のプールが4色でどう分かれ、クライマックス構成が「8門」「門宝」と呼ばれてきたのかを踏まえ、続編弾を見る順番を整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツロゼ「オーガスト」は10月23日｜ブランド25周年弾と、1パック1枚のホロ確定枠</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-wsr-august-25shunen-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-wsr-august-25shunen-2026-08.html</guid>
+    <description>ロゼのブースターパック「オーガスト」は2026年10月23日発売。25周年の記念弾で1パックに1枚ホロ仕様が入ります。収録3作品・箔押しサイン18種・レアリティ内訳を公表数字だけで整理。</description>
+    <category>shinpan</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFは「青ベジブル」「黄悟空3」でカードが動く｜リーダーの通称が相場の単位になっている</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-dbf-leader-tsushou-souba-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-dbf-leader-tsushou-souba-2026-08.html</guid>
+    <description>ドラゴンボール フュージョンワールドの優勝報告にはリーダーの通称が並びます。ST01のあとに顔ぶれが動いた例を使い、なぜリーダー単位で需要が立ち上がるのかを整理します。</description>
+    <category>souba</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードOP-17は発売から3日｜発売直後に値動きが大きいのは、まだ情報が出そろっていないから</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-op17-3nichigo-jouhou-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-op17-3nichigo-jouhou-2026-08.html</guid>
+    <description>OP-17「世界最強の戦士」は2026年8月22日発売。発売直後に値動きが大きくなりやすい理由を、需要ではなく情報の量から説明します。何が揃うと落ち着くのかも整理。</description>
+    <category>souba</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>Tier1のデッキが動かすカードの範囲はタイトルで違う｜ワンピースカードとDBFを並べて</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-tier1-ugoku-hanni-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-tier1-ugoku-hanni-2026-08.html</guid>
+    <description>「環境上位に入ったから動く」は同じ形では起きません。ワンピースカードの色制限とDBFのリーダー枠、デジモンの進化ライン、ヴァイス系のCX8枚枠を並べて範囲の決まり方を整理します。</description>
+    <category>souba</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>遊戯王 LIMITED PACK WORLD CHAMPIONSHIP 2026 は8月29日｜流通が限られる商品の見方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-yugioh-limited-pack-wcs-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-yugioh-limited-pack-wcs-2026-08.html</guid>
+    <description>遊戯王 LIMITED PACK WORLD CHAMPIONSHIP 2026 は2026年8月29日発売の限定流通商品です。流通限定・期間限定・初版限定の違いと、言えること・言えないことを整理します。</description>
+    <category>souba</category>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>新弾の評価が固まるまでに何が起きるか｜ワンピースカードOP-17発売翌日に言えること・言えないこと</title>
     <link>https://toreca-ai.github.io/toreca-antenna/posts/column-op17-hatsubai-yokujitsu-2026-08.html</link>
