@@ -6,7 +6,167 @@
   <atom:link href="https://toreca-ai.github.io/toreca-antenna/feed.xml" rel="self" type="application/rss+xml" />
   <description>トレーディングカードの相場動向、新弾情報、買取の考え方、初心者向けガイドなどをまとめる情報ブログ。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 26 Aug 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 27 Aug 2026 09:00:00 +0900</lastBuildDate>
+  <item>
+    <title>新弾の前日に見えているものは、タイトルごとに違う｜8月末に並んだ3商品を並べて考える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-shinpan-zenjitsu-mieru-mono-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-shinpan-zenjitsu-mieru-mono-2026-08.html</guid>
+    <description>デジモンBT-26は公式デッキレシピまで出ている一方、ヴァイスと遊戯王は枠までしか見えません。準備の粒度は見えている情報の粒度で決まります。</description>
+    <category>column</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>パックを買っても手に入らないカードが増えている｜「商品の外から来るカード」を4つに分ける</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-shohin-no-soto-kara-kuru-card-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-shohin-no-soto-kara-kuru-card-2026-08.html</guid>
+    <description>買う単位・買う場所・別の商品・行動。紐づいているものが違えば、「持っていない」の意味も違います。4つの型に分けて整理します。</description>
+    <category>column</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイス本家からロゼへ移るとき、覚え直すものはほとんどない｜困るのはOS番号とルールの追い方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-wsr-honke-kara-utsuru-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-wsr-honke-kara-utsuru-2026-08.html</guid>
+    <description>用語もトリガーアイコンの俗称もそのまま通じます。つまずくのはOS番号という区分と、総合ルールver.1.05という版の刻み方のほうです。</description>
+    <category>column</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードでドン!!を1体に集めるか、分けるか｜相手に何枚カウンターを切らせるかで考える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-op-don-shuuyaku-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-op-don-shuuyaku-2026-08.html</guid>
+    <description>ドン効率は打点ではなく「相手に何枚カウンターを切らせられるか」で測る考え方。集める攻撃と分ける攻撃の要求の違いを整理します。</description>
+    <category>guide</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツのリフレッシュはいつ起こすか｜レベル1の最初のターンに合わせるという考え方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-refresh-timing-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-refresh-timing-2026-08.html</guid>
+    <description>リフレッシュ直後の山はクライマックスが最大8枚入り、その試合でいちばんキャンセル率が高い状態です。起きるタイミングを設計するという発想を整理します。</description>
+    <category>guide</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツロゼの後列2枠に何を置くか｜「集中」と「応援」の役割を分けて考える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-wsr-kouretsu-system-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-wsr-kouretsu-system-2026-08.html</guid>
+    <description>舞台は前列3枠・後列2枠。集中は山に、応援は場のキャラに働きかけます。枠が2つしかないことが、そのまま方針の決定になります。</description>
+    <category>guide</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFは3弾続けてパックの形が違う｜FB10・ST01・FB11をまとめて仕分けるときの落とし穴</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dbf-3dan-katachi-chigau-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dbf-3dan-katachi-chigau-2026-08.html</guid>
+    <description>FB10が220円、ST01が330円のオールキラ、FB11が240円。共通しているのは1パック6枚だけです。混ざった手元は弾番号から仕分けるのが早道です。</description>
+    <category>kaitori</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードは同じキャラのカードが増え続ける｜「カードナンバー単位」で手元を仕分ける</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-op-doumei-chara-fueru-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-op-doumei-chara-fueru-2026-08.html</guid>
+    <description>4枚までの上限はキャラ名ではなくカードナンバーにかかります。色→リーダー→カードナンバーの順で並べ直すと、判断できる形になります。</description>
+    <category>kaitori</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>再録が中心の商品が出るとき、手元の同名カードをどう見るか｜遊戯王26LPの全21種という規模</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-yugioh-26lp-sairoku-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-yugioh-26lp-sairoku-2026-08.html</guid>
+    <description>遊戯王ではレアリティが構築の扱いを変えません。手元の同名カードを「デッキに入っている／予備／使っていない」の3つに仕分ける手順を整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFのプロモカードは届いた時点で反っていることがある｜付録として来たカードの最初の一週間</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-dbf-promo-furoku-sori-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-dbf-promo-furoku-sori-2026-08.html</guid>
+    <description>パックとは違う経路で届くカードは、外の湿度をそのまま通ってきます。谷反りと山反りの見分け方、折れ筋との違いを整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンで先に傷むのは同名を4枚積む下級｜裏面に差が出ると大会で問題になる</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-digimon-shinkamoto-shomo-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-digimon-shinkamoto-shomo-2026-08.html</guid>
+    <description>下級は枚数が厚く、進化元として重ねられ、育成エリアから移動します。同名4枚のうち1枚だけ裏面に特徴が出るとマークドカードになるため、確認手順を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ポケモンカードのサイド6枚は毎試合裏向きで置かれる｜裏面に特徴が出ると何が起きるか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-pokeca-side-6mai-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-pokeca-side-6mai-2026-08.html</guid>
+    <description>見えないことが仕組みになっている6枚。裁断荒れ・白かけ・反りの3つが裏面に出ると、サイド落ちの中身が読めてしまう可能性があります。</description>
+    <category>kanbetsu</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスの特典PRはパックに入っていない｜BOX特典・カートン特典を受け取った直後にやること</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-ws-tokuten-pr-uketori-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-ws-tokuten-pr-uketori-2026-08.html</guid>
+    <description>単独で渡されるカードはパック内でこすれない代わりに、スリーブに入るまでの時間が長くなりがちです。開封前に先に収めるという順序を提案します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンBT-26の上位枠は3階建て＋別枠｜SR12種・UR3種・SEC2種とSP4種を数え分ける</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-digimon-bt26-jouikaku-3kai-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-digimon-bt26-jouikaku-3kai-2026-08.html</guid>
+    <description>全108種のうち上位はSR12・アルティメットレア3・シークレット2の3段で、SP4種はその階段の外にある別枠。低レアリティ87種との関係も整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードOP-17でロックス・D・ジーベックが初登場｜新キャラが入る弾で最初に見る3つのこと</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op17-rocks-shotojo-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op17-rocks-shotojo-2026-08.html</guid>
+    <description>エルバフ編の衣装と四皇のリーダーカードが軸の4周年弾。新しいキャラが入るとき、リーダーか／何色か／カウンター値がいくつかの順に見ると判断が早く済みます。</description>
+    <category>shinpan</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイス「葬送のフリーレン」新装版とVol.2は1BOXの形が違う｜12パック5,280円と10パック4,400円</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-frieren-shinsouban-vol2-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-frieren-shinsouban-vol2-2026-08.html</guid>
+    <description>3月の新装版は1BOX12パック5,280円、8月28日のVol.2は10パック4,400円。1パックはどちらも440円8枚入りで単価55円のままです。同じ「1BOX」でも量が違います。</description>
+    <category>shinpan</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>遊戯王「LIMITED PACK WORLD CHAMPIONSHIP 2026」は8月29日｜全21種がウルトラレア20種＋シークレット1種</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-yugioh-26lp-zen21shu-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-yugioh-26lp-zen21shu-2026-08.html</guid>
+    <description>1パック396円4枚入り、1BOX10パック、オフィシャルトーナメントストア限定。コモンが1種も入らない構成は、状態の面でも通常弾と性格が違います。</description>
+    <category>shinpan</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>220円のパックは7月4日で最後だった｜ワンピース・デジモン・DBFの価格改定がいつ切り替わったか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-3title-240en-soroi-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-3title-240en-soroi-2026-08.html</guid>
+    <description>切り替わりは3タイトル同時ではなく、それぞれの弾のタイミングで起きました。DBFはFB10が220円、FB11が240円。弾ごとの日付で並べて整理します。</description>
+    <category>souba</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンBT-26は発売2日前｜値段の話が発売前に出るカードと、出たあとに出るカードの違い</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-digimon-bt26-hatsubai-2nichimae-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-digimon-bt26-hatsubai-2nichimae-2026-08.html</guid>
+    <description>公式デッキレシピ4種が先に出ているタイトルでは、発売前に注目が集まる帯と、回してから評価が固まる帯が分かれます。その分かれ方を整理します。</description>
+    <category>souba</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ロゼの1カートンは20BOX、ヴァイス本家は12BOX｜「カートン」という単位が揃っていない</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-wsr-carton-20box-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-wsr-carton-20box-2026-08.html</guid>
+    <description>ロゼ「オーガスト」は1カートン20BOX110,000円、本家は12BOX。同じ言葉でも中身の量が違い、単位に紐づく特典の有無も別です。</description>
+    <category>souba</category>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>ワンピースカードで名前が挙がるデッキは、なぜ「色＋キャラ」で呼ばれるのか｜紫エネル・緑ミホーク・青ロックス</title>
     <link>https://toreca-ai.github.io/toreca-antenna/posts/column-op-kankyou-3deck-2026-08.html</link>
