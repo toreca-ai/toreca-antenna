@@ -6,7 +6,167 @@
   <atom:link href="https://toreca-ai.github.io/toreca-antenna/feed.xml" rel="self" type="application/rss+xml" />
   <description>トレーディングカードの相場動向、新弾情報、買取の考え方、初心者向けガイドなどをまとめる情報ブログ。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 30 Aug 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 01 Sep 2026 09:00:00 +0900</lastBuildDate>
+  <item>
+    <title>「相手による」が最後に付く解説をどう読むか｜DBFの定石が持っている変数</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-dbf-joseki-aite-niyoru-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-dbf-joseki-aite-niyoru-2026-09.html</guid>
+    <description>定石のあとに付く留保は逃げではなく構造です。示された数字が相手の状態を変数に持つという形を、主力タイトル横断で整理します。</description>
+    <category>column</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>リーダーを指定するカードが増えると、何が起きるか｜DBFのふろく3枚を並べる</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-dbf-leader-shitei-card-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-dbf-leader-shitei-card-2026-09.html</guid>
+    <description>FP-094・FP-096・FP-102はリーダーへの条件が段階的に細かくなっています。指定の粒度が変わると何が変わるかを整理します。</description>
+    <category>column</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>規制の理由を書くタイトルと、書かないタイトル｜お知らせの情報量を並べて比べる</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-digimon-riyuubun-hoka-title-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-digimon-riyuubun-hoka-title-2026-09.html</guid>
+    <description>デジモンは指定理由を併記し、他のタイトルはリスト中心で出します。理由文から読めることと読めないことを分けて整理します。</description>
+    <category>column</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>「種類が増えた」と「当たりやすくなった」は別｜9月の新弾を数の話だけで読む</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-kazu-to-kakuritsu-wakeru-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-kazu-to-kakuritsu-wakeru-2026-09.html</guid>
+    <description>収録種類数・1BOXの枚数・確定枠の有無という数の話だけで、9月の新弾がどこまで読めるかを整理します。封入率は非公表です。</description>
+    <category>column</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFで先攻と後攻をどう選ぶか｜初手6枚・マリガン1回・エナジーマーカーという材料</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-senkou-kouhou-mulligan-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-senkou-kouhou-mulligan-2026-09.html</guid>
+    <description>ドラゴンボール フュージョンワールドの先攻後攻とマリガンの基準を、公式のルールで確定していることから順に整理します。</description>
+    <category>guide</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードの初手5枚をどう見るか｜マリガンは1回、全部戻して引き直す</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-op-shote-5mai-mulligan-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-op-shote-5mai-mulligan-2026-09.html</guid>
+    <description>4枚積みでも初手5枚に来るのは約35%。キーカードではなく初動とカウンター値で判断する、というマリガンの基準を整理します。</description>
+    <category>guide</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスの後列は「どう並べるか」で決まる｜移動とリバース時を同居させない</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-kouretsu-narabi-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-kouretsu-narabi-2026-09.html</guid>
+    <description>ヴァイスシュヴァルツの後列2枠は置くカードより並べ方で機能が決まります。相手に狙いを選ばせない盤面の作り方を整理します。</description>
+    <category>guide</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ロゼのレベル0で舞台をどう作るか｜後列2枠を先に埋めて、3面殴りに行かない</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-wsr-level0-butai-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-wsr-level0-butai-2026-09.html</guid>
+    <description>ヴァイスシュヴァルツロゼのレベル0を整理します。舞台は前列3枠・後列2枠。無理に3面アタックしない理由と後列から埋める順番を説明します。</description>
+    <category>guide</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>1BOX80枚に対して収録は270種｜ヴァイスの新弾で「BOXで揃える」が成立しない理由</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-ws-box-de-soroanai-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-ws-box-de-soroanai-2026-09.html</guid>
+    <description>NIKKE Vol.2は収録合計270種に対し1BOXが80枚。確率ではなく数の関係から、4コンという単位で揃え方を決める考え方を整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ロゼは10月23日「オーガスト」まで2か月弱｜次の弾が出る前に決めておくこと</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-wsr-august-made-2kagetsu-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-wsr-august-made-2kagetsu-2026-09.html</guid>
+    <description>ヴァイスシュヴァルツロゼの次の弾は10月23日。ネオスタンダードのタイトル単位という前提で、間隔が空く時期に決めておくことを整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>1枚制限のカードは、毎試合その1枚が出る｜デジモンの制限リストと消耗の集中</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-digimon-1mai-seigen-shomou-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-digimon-1mai-seigen-shomou-2026-09.html</guid>
+    <description>制限（1）は4枚積みと違って予備と入れ替えられません。デッキの中にできる替えのきかない1枚と、そこで効く確認手順を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>同じパックから出たカードが最初から2系統に分かれる｜30th CELEBRATIONの再録30枚</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-pokeca-sairoku-2keitou-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-pokeca-sairoku-2keitou-2026-09.html</guid>
+    <description>再録30枚は現行では使えませんが、元のカードが使えるレギュレーションでは使えます。開封の日に仕分けが2つに分かれるパックの片づけ方です。</description>
+    <category>kanbetsu</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>直筆サインと箔押しサインは別物｜NIKKE Vol.2のAGRは初版限定の1種</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-ws-chokuhitsu-hakuoshi-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-ws-chokuhitsu-hakuoshi-2026-09.html</guid>
+    <description>箔押しは印刷、直筆はインクで弱点が違います。「◯名分」と「◯種」を混ぜない数え方まで含めて、サイン枠の扱いを整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>1パック6枚に光物が入る前提のタイトル｜ロゼで反りが出やすい理由を面積から考える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-wsr-hikarimono-hiritsu-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-wsr-hikarimono-hiritsu-2026-09.html</guid>
+    <description>ロゼはOFRのように縁まで加工が広がる仕様が増えています。加工面積と反り・白かけの関係を保管の側から整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFのふろくカードが3か月連続｜FP-102「孫悟飯：未来」はVジャンプ11月特大号</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-dbf-fp102-gohan-mirai-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-dbf-fp102-gohan-mirai-2026-09.html</guid>
+    <description>FP-102「孫悟飯：未来」のスキルが公開。リーダーの名前まで指定するスキルの読み方と、3か月続く雑誌ふろくの位置を整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードのEB-05とOP-18が同じ場で解禁｜ニコ・ロビンとフランキーがリーダーに</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op-eb05-op18-kaikin-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op-eb05-op18-kaikin-2026-09.html</guid>
+    <description>EB-05でニコ・ロビン、OP-18でフランキーがリーダーとして登場。神の騎士団の初参戦と天野喜孝氏の描き下ろしまでを整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイス「勝利の女神：NIKKE Vol.2」は9月19日｜ノーマル112種にパラレル158種という比率</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-nikke-v2-parallel-158-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-nikke-v2-parallel-158-2026-09.html</guid>
+    <description>9月19日発売のNIKKE Vol.2はパラレルが158種。2026年のヴァイス系の弾から外れた比率と、レアリティ内訳・サイン枠を整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンの禁止・制限が本日9月1日から適用｜今回は「解除」が1枚もない改訂だった</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-digimon-kaijo-nashi-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-digimon-kaijo-nashi-2026-09.html</guid>
+    <description>禁止にBT15-003ニャロモン、制限（1）に3枚が追加され、解除はゼロ。減る方向だけが動いた改訂が手元に何をするかを整理します。</description>
+    <category>souba</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードの4周年は11月まで続く｜OP-17・EB-05・OP-18を並べて順番を決める</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-op-4shuunen-3dan-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-op-4shuunen-3dan-2026-09.html</guid>
+    <description>OP-17に続きEB-05が10月、OP-18が11月。EBシリーズの価格が220円から240円に変わり、比較の土台が動いている点を整理します。</description>
+    <category>souba</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ポケモンカード30周年商品は当選枠の大半が本人認証済み枠｜「配る」仕組みが認証まで来た</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-pokeca-honnin-kakunin-waku-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-pokeca-honnin-kakunin-waku-2026-09.html</guid>
+    <description>マイナンバーカードを使った本人確認システムの導入で、抽選の枠が認証の状況で分かれます。買う側の実務が発売日から締切に移る話です。</description>
+    <category>souba</category>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>公式が示す「組み方の答え」の数がタイトルで違う｜4種・1種・ゼロ</title>
     <link>https://toreca-ai.github.io/toreca-antenna/posts/column-kouchiku-rei-kazu-chigau-2026-08.html</link>

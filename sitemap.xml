@@ -2,13 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://toreca-ai.github.io/toreca-antenna/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://toreca-ai.github.io/toreca-antenna/about.html</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/column-dbf-joseki-aite-niyoru-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/column-dbf-leader-shitei-card-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/column-digimon-riyuubun-hoka-title-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/column-kazu-to-kakuritsu-wakeru-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-senkou-kouhou-mulligan-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/guide-op-shote-5mai-mulligan-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-kouretsu-narabi-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/guide-wsr-level0-butai-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-ws-box-de-soroanai-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-wsr-august-made-2kagetsu-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-digimon-1mai-seigen-shomou-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-pokeca-sairoku-2keitou-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-ws-chokuhitsu-hakuoshi-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-wsr-hikarimono-hiritsu-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-dbf-fp102-gohan-mirai-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op-eb05-op18-kaikin-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-nikke-v2-parallel-158-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/souba-digimon-kaijo-nashi-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/souba-op-4shuunen-3dan-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/souba-pokeca-honnin-kakunin-waku-2026-09.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://toreca-ai.github.io/toreca-antenna/posts/column-kouchiku-rei-kazu-chigau-2026-08.html</loc>
