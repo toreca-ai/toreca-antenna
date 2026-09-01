@@ -6,7 +6,167 @@
   <atom:link href="https://toreca-ai.github.io/toreca-antenna/feed.xml" rel="self" type="application/rss+xml" />
   <description>トレーディングカードの相場動向、新弾情報、買取の考え方、初心者向けガイドなどをまとめる情報ブログ。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 01 Sep 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 09:00:00 +0900</lastBuildDate>
+  <item>
+    <title>9月は「出る」が厚い月｜大会の入り口が年齢や購入量で分かれている</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-9gatsu-deru-ga-atsui-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-9gatsu-deru-ga-atsui-2026-09.html</guid>
+    <description>2026年9月のイベント予定を並べ、入り口の作り方が使えるリーダー・年齢・購入量の3種類に分かれていることを整理します。</description>
+    <category>column</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>公式が情報を出す場所はタイトルごとに違う｜商品ページ・ニュース・作品公式・特設サイト</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-koushiki-jouhou-basho-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-koushiki-jouhou-basho-2026-09.html</guid>
+    <description>新弾の情報が公式のどこに載るかを4つの出口に分けて整理し、封入率が非公表であることや逐語を後半まで読むことの大切さを説明します。</description>
+    <category>column</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>同じ看板の2ブランドが同じ日に商品を出す｜10月30日のヴァイス本家とロゼ</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-ws-wsr-10gatsu30nichi-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-ws-wsr-10gatsu30nichi-2026-09.html</guid>
+    <description>10月30日に本家のガールズ＆パンツァーとロゼのスペシャルカードセットが並びます。ブランドを分ける設計が何をしているかを考えます。</description>
+    <category>column</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>1つの弾に3タイトルが入るとき、始める人は3方向に散る｜ロゼ「オーガスト」の構造</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-wsr-1dan-3title-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-wsr-1dan-3title-2026-09.html</guid>
+    <description>ネオスタンダードで3タイトルが同居する弾の性格を整理し、タイトル選びの材料が勝率ではないことを説明します。</description>
+    <category>column</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンで育成エリアから出すタイミング｜登場扱いにならないが、そのターンから殴れる</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-digimon-ikusei-dasu-timing-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-digimon-ikusei-dasu-timing-2026-09.html</guid>
+    <description>育成エリアからバトルエリアへ出す判断を、登場時効果が使えない代わりにそのターンから攻撃できるというルールから整理します。</description>
+    <category>guide</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードでカウンターを切るか、切らないか｜「いちばん打点の低い攻撃」から考える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-op-counter-kiru-kiranai-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-op-counter-kiru-kiranai-2026-09.html</guid>
+    <description>手札がそのまま受けの厚さになるワンピースカードで、カウンターを切る判断の軸を整理します。切りすぎと切らなすぎは方向が逆の失敗です。</description>
+    <category>guide</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ロゼのキャラ40枚をレベル帯にどう割るか｜CX8枚とイベント2枚を引いた残りの話</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-wsr-chara40-level-haibun-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-wsr-chara40-level-haibun-2026-09.html</guid>
+    <description>公式おすすめレシピのキャラ40枚を、舞台5枠と採用枚数別の確率から配分する考え方を整理します。決める順番も示します。</description>
+    <category>guide</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>弾の規模が違うと、開けたあとの手数が変わる｜秋の新弾4つを種類数で並べる</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dan-no-kibo-tesuu-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dan-no-kibo-tesuu-2026-09.html</guid>
+    <description>EX-13の81種からNIKKE Vol.2の270種まで、種類数の数え方の違いと1BOXの枚数比、仕分けの単位の違いを整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFのFB11まで10日｜次の弾が来る前に、デッキ枚数の幅をどうするか決めておく</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dbf-fb11-10ka-mae-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dbf-fb11-10ka-mae-2026-09.html</guid>
+    <description>主力5タイトルでデッキ枚数に幅があるのはDBFだけです。50〜60枚という幅を「足す」ではなく「薄まる」として読む方法を整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>エクストラブースターと通常弾では、手元の増え方が違う｜デジモンEX-13の全81種をどう迎えるか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-digimon-ex-to-tsuujou-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-digimon-ex-to-tsuujou-2026-09.html</guid>
+    <description>EX-13とBT-26のレアリティ内訳を比べ、差がコモン・アンコモンに集中していることが整理の単位にどう効くかを説明します。</description>
+    <category>kaitori</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードの9月は「買う」が空く月｜次の弾は10月、手元を整える時間に使う</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-op-9gatsu-kau-ga-nai-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-op-9gatsu-kau-ga-nai-2026-09.html</guid>
+    <description>9月はブースターの発売がなく大会が中心です。色という束で手元を分ける手順と、ドン!!10枚の裏面確認について整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>通常弾のパックには緩衝材が入っている｜DBF FB11とST01で開封時の条件が違う理由</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-dbf-fb11-kanshouzai-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-dbf-fb11-kanshouzai-2026-09.html</guid>
+    <description>オールキラのST01と通常弾のFB11で、パック内の加工面の重なり方が違うことを整理し、開ける日にやること3つを説明します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>同じ商品が2つの時期に分かれて手元に来る｜ポケカ30周年商品の9月と11月</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-pokeca-2kai-todoku-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-pokeca-2kai-todoku-2026-09.html</guid>
+    <description>30th CELEBRATIONは9月16日発売ですが抽選分の発送は11月中旬です。時期が分かれることで保管の条件がどう変わるかを整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>特典プロモはパックに守られていない｜ヴァイスのBOX特典26種・カートン特典12種の扱い</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-ws-tokuten-pr-hadaka-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-ws-tokuten-pr-hadaka-2026-09.html</guid>
+    <description>NIKKE Vol.2の特典プロモを例に、パックの中身と特典カードでは状態の条件が違うことと、サイン枠の数え方を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFのふろくカードが本編の弾とつながった｜FP-095「シャロット」とFB11-088</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-dbf-fp095-shallot-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-dbf-fp095-shallot-2026-09.html</guid>
+    <description>Vジャンプ10月特大号ふろくのFP-095と、9月12日発売のFB11に収録される進化形カードの関係を整理します。ふろくは1枚ずつしか配られません。</description>
+    <category>shinpan</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンEX-13「CHIVALROUS XIII」は全81種｜BT-26の全108種と何が違うか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-digimon-ex13-zen81shu-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-digimon-ex13-zen81shu-2026-09.html</guid>
+    <description>10月3日発売のEX-13の全81種の内訳を確認し、通常弾BT-26との差がコモン・アンコモンに集中していることの意味を整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードの会場限定商品が5点｜10月3日、値段が先に出ている枠</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op-kaijo-gentei-5ten-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op-kaijo-gentei-5ten-2026-09.html</guid>
+    <description>「メラメラの実 争奪戦」の会場限定商品5点を価格つきで整理し、中身と値段が確定した商品とパックでは判断の材料が違うことを説明します。</description>
+    <category>shinpan</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツの発売間隔は一定ではない｜8月28日の次は9月19日、10月は2日程</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-ws-hatsubai-kankaku-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-ws-hatsubai-kankaku-2026-09.html</guid>
+    <description>2026年8月〜12月のヴァイスの日程を間隔で並べ直し、空く時期と詰まる時期で手元の動かし方が変わることを整理します。</description>
+    <category>souba</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツロゼは10月に3商品｜1週間差で並ぶパックと確定商品</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-wsr-10gatsu-3shohin-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-wsr-10gatsu-3shohin-2026-09.html</guid>
+    <description>ブースターパック「オーガスト」10月23日とスペシャルカードセット2種10月30日を並べ、単価の性質が違う商品の見分け方を整理します。</description>
+    <category>souba</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>遊戯王のMANGA-STYLEは既存カードと同名扱いで合計3枚まで｜「特別仕様＝使えない」ではない</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-yugioh-manga-style-3mai-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-yugioh-manga-style-3mai-2026-09.html</guid>
+    <description>9月26日発売のORIGINAL ARTWORK COLLECTIONのMANGA-STYLEの扱いを確認し、ポケカ30thの再録と逆を向いていることを整理します。</description>
+    <category>souba</category>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>「相手による」が最後に付く解説をどう読むか｜DBFの定石が持っている変数</title>
     <link>https://toreca-ai.github.io/toreca-antenna/posts/column-dbf-joseki-aite-niyoru-2026-09.html</link>
