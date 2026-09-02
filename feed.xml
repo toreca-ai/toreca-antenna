@@ -6,7 +6,167 @@
   <atom:link href="https://toreca-ai.github.io/toreca-antenna/feed.xml" rel="self" type="application/rss+xml" />
   <description>トレーディングカードの相場動向、新弾情報、買取の考え方、初心者向けガイドなどをまとめる情報ブログ。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 02 Sep 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 09:00:00 +0900</lastBuildDate>
+  <item>
+    <title>キーワード能力が増えると、テキストは短くなり覚える語が増える｜デジモンBT-26の≪継承≫と≪分離≫</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-digimon-keyword-nouryoku-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-digimon-keyword-nouryoku-2026-09.html</guid>
+    <description>キーワード化はテキストの長さをカードの外に出す仕組みです。公式が語を与えるデジモンと、俗称しか通じないヴァイスの対比まで整理します。</description>
+    <category>column</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>「勝つための1戦」と「上手くなるための1戦」は別｜ワンピースカードで振り返りの粒度を決める</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-op-katsu-to-umaku-naru-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-op-katsu-to-umaku-naru-2026-09.html</guid>
+    <description>勝敗だけを軸にすると勝った試合の見落としが残ります。乗り換えのコストが高いワンピース固有の構造から、振り返り方を整理します。</description>
+    <category>column</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>練習の話は3つに分かれる｜一人回し・フリー対戦・観戦で分かることが違う</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-renshuu-3keitou-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-renshuu-3keitou-2026-09.html</guid>
+    <description>練習方法は3系統に分かれ、分かることが違います。主力5タイトルの構造に当てはめると、どれを厚くするべきかが変わります。</description>
+    <category>column</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFのライフは削られる数字であり資源でもある｜受け方に段を作る考え方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-life-wo-shigen-to-miru-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-life-wo-shigen-to-miru-2026-09.html</guid>
+    <description>覚醒の条件にも絡むライフをどこまで受けるか。序盤・中盤・終盤で段を作る考え方と、エナジーの伸び方の形を整理します。</description>
+    <category>guide</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードは相手のリーダーを見た時点で範囲が決まる｜色から逆算する読み方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-op-aite-no-iro-kara-gyakusan-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-op-aite-no-iro-kara-gyakusan-2026-09.html</guid>
+    <description>リーダーの色を含む色のカードしか入れられないという構築ルールから、相手のデッキを読む順序を組み立てます。環境が動いても古くならない読み方です。</description>
+    <category>guide</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスの一人回しで分かること、分からないこと｜「妨害がないから意味がない」への答え</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-hitorimawashi-dekiru-koto-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-hitorimawashi-dekiru-koto-2026-09.html</guid>
+    <description>山圧縮やリフレッシュのように自分の側で完結する要素と、相手がいないと出てこない択を線引きし、練習時間の使い方を決めます。</description>
+    <category>guide</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ロゼのレベル2は「レベル3で何ができるか」から逆算する｜ストック・山・手札の3つ</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-wsr-level2-shigen-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-wsr-level2-shigen-2026-09.html</guid>
+    <description>固有の仕事がないレベル2をどう使うか。チャンプアタックが選択肢に入る理由と、ロゼ固有のOS番号・ルール版の確認まで整理します。</description>
+    <category>guide</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>FB11でリーダーを乗り換えるとき、デッキの外に残るもの｜DBFのリーダー1枚とエナジーマーカー</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dbf-leader-norikae-hako-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dbf-leader-norikae-hako-2026-09.html</guid>
+    <description>フュージョンワールドはリーダー1枚とエナジーマーカーがデッキの外にあります。デッキ単位の整理から抜け落ちる2つの枠の扱い方です。</description>
+    <category>kaitori</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードの9月6日は締切が重なる｜「買う」より先に「締め切る」を片づける</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-op-9gatsu6ka-shimekiri-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-op-9gatsu6ka-shimekiri-2026-09.html</guid>
+    <description>予定を買う・出る・締め切る・切り替わるの4つに分けると急ぐものが決まります。9月のワンピースカードの予定を当てはめます。</description>
+    <category>kaitori</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>続編弾は「増える」より「入れ替わる」｜ヴァイスのNIKKE Vol.2まで2週間で決めておくこと</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-ws-nikke-v2-irekae-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-ws-nikke-v2-irekae-2026-09.html</guid>
+    <description>ネオスタンダードの続編弾では外れたカードを他のデッキに回せません。クライマックス8枚から決め直すという順序と、4コン単位の整理を整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>1BOXで手元に来る枚数は6倍の開きがある｜開封の日の作業量から考える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-1box-maisuu-sagyou-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-1box-maisuu-sagyou-2026-09.html</guid>
+    <description>バンダイ系144枚からプレミアムブースター24枚まで。枚数と加工面の数という2つの軸で、開封の日の手順を組み立てます。</description>
+    <category>kanbetsu</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>トラッシュを資源として使う軸では、同じカードが何度も動く｜デジモンで消耗が集中する場所</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-digimon-trash-oufuku-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-digimon-trash-oufuku-2026-09.html</guid>
+    <description>デッキ・場・トラッシュを往復するカードは消耗の仕方が違います。同名4枚を並べる確認手順と、制限（1）で比べる相手がいない問題を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>新しいカードが混ざらない期間は、裏面をそろえ直すのに向いている｜ロゼの10月23日まで</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-wsr-mazaranai-kikan-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-wsr-mazaranai-kikan-2026-09.html</guid>
+    <description>ロゼは次の弾まで約2か月半。光物の比率が高いタイトルで、4コン単位の確認とクライマックス8枚への優先順位を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBF「BRIGHTNESS OF HOPE」は9月12日｜フュージョンワールドで240円になって最初のブースター</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-dbf-fb11-240en-hatsu-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-dbf-fb11-240en-hatsu-2026-09.html</guid>
+    <description>FB11は240円6枚入りで全123種。FB09・FB10の220円から切り替わる最初の通常弾で、前作と比べるときの土台そのものが動いています。</description>
+    <category>shinpan</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ポケモンカード30th CELEBRATIONは9月16日｜6枚のうちランダムなのは実質4枚</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-pokeca-30th-random-4mai-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-pokeca-30th-random-4mai-2026-09.html</guid>
+    <description>確定枠が2つあるため抽選の要素が働くのは実質4枚。再録30枚の使用可否の逐語や、発売日と着荷が2か月ずれる点まで整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイス「anemoi」は10月2日｜サイン枠が3層に分かれ、合計種類数は公表されていない</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-anemoi-sign-3sou-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-anemoi-sign-3sou-2026-09.html</guid>
+    <description>声優5名で計10種、原画家4名で計5種、初版限定のAGR直筆1名分。3層に分かれたサイン枠の数え方と、公式が合計を書かない理由を整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>9月に出る4つの弾を、1枚あたり単価と種類数で並べる｜同じ「新弾」でも数の形が違う</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-9gatsu-4dan-tanka-shurui-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-9gatsu-4dan-tanka-shurui-2026-09.html</guid>
+    <description>FB11・ポケカ30th・NIKKE Vol.2・遊戯王OACを単価と収録種類数、1BOXの枚数で並べます。数の話と確率の話を分けて読む方法です。</description>
+    <category>souba</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンBT-26で名前が挙がる軸は「トラッシュを使う側」に寄っている｜公式レシピ4種との距離</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-digimon-trash-jiku-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-digimon-trash-jiku-2026-09.html</guid>
+    <description>BT-26の全108種と公式デッキレシピ4種、そして使用者のあいだで語られる軸を分けて並べ、進化ラインで組むタイトルの需要の広がり方を整理します。</description>
+    <category>souba</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツロゼの新弾が2か月半空く｜8月7日「ぬきたし」から10月23日「オーガスト」まで</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-wsr-shinkan-kankaku-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-wsr-shinkan-kankaku-2026-09.html</guid>
+    <description>ロゼの弾の発売日を並べると、今回だけ約2か月半空きます。カードプールが動かない期間に何が変わり、何が変わらないのかを分けて整理します。</description>
+    <category>souba</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>遊戯王のリミットレギュレーションは7月1日適用のまま｜「改訂待ち」の期間に何ができるか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-yugioh-kaitei-machi-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-yugioh-kaitei-machi-2026-09.html</guid>
+    <description>次回改訂が未告知の遊戯王で、内容が何であっても効く準備だけを整理します。見落とされがちな解除の欄と、MANGA-STYLEの同名扱いにも触れます。</description>
+    <category>souba</category>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>9月は「出る」が厚い月｜大会の入り口が年齢や購入量で分かれている</title>
     <link>https://toreca-ai.github.io/toreca-antenna/posts/column-9gatsu-deru-ga-atsui-2026-09.html</link>
