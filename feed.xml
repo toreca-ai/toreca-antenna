@@ -6,7 +6,39 @@
   <atom:link href="https://toreca-ai.github.io/toreca-antenna/feed.xml" rel="self" type="application/rss+xml" />
   <description>トレーディングカードの相場動向、新弾情報、買取の考え方、初心者向けガイドなどをまとめる情報ブログ。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 03 Sep 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 09:00:00 +0900</lastBuildDate>
+  <item>
+    <title>DBFのデッキは3つの型で語られる｜アグロ・コントロール・ランプと、覚醒の早い遅い</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-deck-type-3kei-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-deck-type-3kei-2026-09.html</guid>
+    <description>フュージョンワールドのデッキタイプを、使用者が使うアグロ軸・コントロール軸・ランプ軸で整理。型の分かれ目が覚醒に寄る理由まで説明します。</description>
+    <category>guide</category>
+    <pubDate>Fri, 04 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ロゼ「オーガスト」の3作品は同じOS13｜3つに分かれると思っていた手元が、1つにまとまる</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-wsr-august-os13-hitotsu-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-wsr-august-os13-hitotsu-2026-09.html</guid>
+    <description>オーガストは3作品収録ですが公式のタイトル区分はOS13ひとつ。作品ごとに分ける整理では、あとで同じデッキに入るカードが別々の場所へ行きます。</description>
+    <category>kaitori</category>
+    <pubDate>Fri, 04 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>対戦より先に、移動と練習でカードは傷む｜大会に持って行く日のスリーブと束の扱い</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-taikai-hakobu-hi-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-taikai-hakobu-hi-2026-09.html</guid>
+    <description>スリーブの状態がマークドカード扱いになる線引きと、タイトルごとに「デッキの外の束」が移動中いちばん無防備になる理由を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Fri, 04 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイス「ステラソラ」はTDとBPが10月16日に同日発売｜サイン枠が2つの商品に分かれている</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-stellasola-td-bp-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-stellasola-td-bp-2026-09.html</guid>
+    <description>ステラソラはTDとBPが同日発売。TD側にTDSP箔押しサイン3種、BP側に声優17名分と、サイン枠が商品をまたいで分かれています。</description>
+    <category>shinpan</category>
+    <pubDate>Fri, 04 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>キーワード能力が増えると、テキストは短くなり覚える語が増える｜デジモンBT-26の≪継承≫と≪分離≫</title>
     <link>https://toreca-ai.github.io/toreca-antenna/posts/column-digimon-keyword-nouryoku-2026-09.html</link>
