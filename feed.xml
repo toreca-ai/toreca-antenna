@@ -6,7 +6,39 @@
   <atom:link href="https://toreca-ai.github.io/toreca-antenna/feed.xml" rel="self" type="application/rss+xml" />
   <description>トレーディングカードの相場動向、新弾情報、買取の考え方、初心者向けガイドなどをまとめる情報ブログ。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 04 Sep 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 09:00:00 +0900</lastBuildDate>
+  <item>
+    <title>DBFの10月は大会の形式が4つ並ぶ｜リーダーリミテッドの対象はFB11の5リーダー</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-dbf-10gatsu-4keishiki-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-dbf-10gatsu-4keishiki-2026-09.html</guid>
+    <description>スタンダード・中学生以下限定・リーダーリミテッド・スタートデッキ限定バトルが同じ月に並びます。対象リーダーはFB11収録の5種でした。</description>
+    <category>column</category>
+    <pubDate>Sat, 05 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>同じカードがもう1枚増えても、デッキの枠は増えない｜「別仕様で出直すカード」の4つの形</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-sairoku-waku-4kata-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-sairoku-waku-4kata-2026-09.html</guid>
+    <description>ワンピース・遊戯王・ポケカ・ヴァイスで、同じカードが別仕様で出直したときの扱いは4通り。枠を共有するかどうかで余りが出るかが決まります。</description>
+    <category>kaitori</category>
+    <pubDate>Sat, 05 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードのカードリストに9月4日、25枚が追加｜うち新しい番号は3枚だけ</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op-cardlist-tsuika-25mai-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op-cardlist-tsuika-25mai-2026-09.html</guid>
+    <description>プロモーションカード11枚と限定商品収録カード14枚が追加。新しいカードナンバーはP-152〜154の3枚だけで、残る22枚は既存弾の番号でした。</description>
+    <category>shinpan</category>
+    <pubDate>Sat, 05 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンカードゲームの9月は店頭に並ぶ商品がない｜240円の弾と、8,800円・24,200円の受注商品</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-digimon-9gatsu-jyucyu-kakaku-2026-09.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-digimon-9gatsu-jyucyu-kakaku-2026-09.html</guid>
+    <description>9月に発売予定の商品はゼロ。次は10月3日のEX-13、その先は11月発送24,200円と2027年1月発送8,800円。新弾がない月に動く理由を整理します。</description>
+    <category>souba</category>
+    <pubDate>Sat, 05 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>DBFのデッキは3つの型で語られる｜アグロ・コントロール・ランプと、覚醒の早い遅い</title>
     <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-deck-type-3kei-2026-09.html</link>

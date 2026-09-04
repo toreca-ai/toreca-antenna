@@ -2,13 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://toreca-ai.github.io/toreca-antenna/</loc>
-    <lastmod>2026-09-04</lastmod>
+    <lastmod>2026-09-05</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://toreca-ai.github.io/toreca-antenna/about.html</loc>
-    <lastmod>2026-09-04</lastmod>
+    <lastmod>2026-09-05</lastmod>
     <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/column-dbf-10gatsu-4keishiki-2026-09.html</loc>
+    <lastmod>2026-09-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-sairoku-waku-4kata-2026-09.html</loc>
+    <lastmod>2026-09-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op-cardlist-tsuika-25mai-2026-09.html</loc>
+    <lastmod>2026-09-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/souba-digimon-9gatsu-jyucyu-kakaku-2026-09.html</loc>
+    <lastmod>2026-09-05</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-deck-type-3kei-2026-09.html</loc>
